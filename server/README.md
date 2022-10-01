@@ -46,3 +46,8 @@ Route: Parâmetros da url não nomeados.
 
 Body: Enviar informações em uma requisição
 - envio de formulário (id, nome, senha, etc ...)
+
+## Commands
+- npx prisma migrate dev
+- npx prisma generate
+- npx prisma studio
